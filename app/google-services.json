@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "668978093076",
+    "project_id": "maratangsoftlocationhelper",
+    "storage_bucket": "maratangsoftlocationhelper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668978093076:android:6ea7bdee988594b015db01",
+        "android_client_info": {
+          "package_name": "com.maratangsoft.tplocationhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668978093076-50c19maj57pelbpur3p95sa0kh3jgvp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maratangsoft.tplocationhelper",
+            "certificate_hash": "eaa4c07f7c05d887178bdac293135da744402e2e"
+          }
+        },
+        {
+          "client_id": "668978093076-lf7fqd036ejq69frci4dga154vfui2hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHK-vf11OZvFLQFWeqy3vBThD4bGBGXGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668978093076-lf7fqd036ejq69frci4dga154vfui2hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

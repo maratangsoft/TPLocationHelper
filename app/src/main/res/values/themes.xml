@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TPLocationHelper" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#FF872222</item>
+        <item name="colorPrimaryVariant">#FFE39393</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        <!-- Customize your theme here. -->
+        <item name="android:fontFamily">@font/nanum_square_r</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+<!--    Splash Activity 테마-->
+    <style name="SplashTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+<!--        <item name="android:windowBackground">@color/black</item>-->
+<!--        여러 장의 이미지를 겹쳐서 하나의 그림으로 만드는 layer-list로 만든 스플래시 이미지 배경 적용-->
+        <item name="android:windowBackground">@drawable/splash</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
